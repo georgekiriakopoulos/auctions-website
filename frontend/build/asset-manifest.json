@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Auctions-Website/static/css/main.cc4de62f.css",
+    "main.js": "/Auctions-Website/static/js/main.46fffa67.js",
+    "index.html": "/Auctions-Website/index.html",
+    "main.cc4de62f.css.map": "/Auctions-Website/static/css/main.cc4de62f.css.map",
+    "main.46fffa67.js.map": "/Auctions-Website/static/js/main.46fffa67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4de62f.css",
+    "static/js/main.46fffa67.js"
+  ]
+}
