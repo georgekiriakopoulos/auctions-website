@@ -73,8 +73,3 @@ def recAuctions(user):
     max_index = rA.index(max_value)            
     rAuction = auctionsSum[max_index]
     return rAuction.id 
-
-def test_func():
-    print('hi')
-    print('hello')
-    pass
